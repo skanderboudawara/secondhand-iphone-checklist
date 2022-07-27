@@ -1,0 +1,30 @@
+html,
+body { height: 100%;
+    
+}
+.parent {
+height : 80%;
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.child {
+    max-width: 420px!important;
+margin: 40px;
+}
+.container{
+    max-width: 420px!important;
+}
+
+h2 {
+    padding:15px;
+}
+
+footer a {
+    color: black;
+  }
+
+a {
+    color: gray;
+}
